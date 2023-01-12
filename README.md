@@ -3,6 +3,7 @@
 
 ![C](https://img.shields.io/badge/-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jsilver0819)](https://solved.ac/jsilver0819)
 <!--
 **jsilver01/jsilver01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
