@@ -3,8 +3,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jsilver0819)](https://solved.ac/jsilver0819)
 <br>
-![Jungeun's github stats](https://github-readme-stats.vercel.app/api?username=jsilver01)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsilver01&layout=compact)
 <!--
 **jsilver01/jsilver01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
