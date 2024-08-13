@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jsilver01&fontSize=90)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsilver01&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jsilver0819)](https://solved.ac/jsilver0819)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsilver01&hide=contribs,prs&show_icons=true&theme=테마)
+![jungeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsilver01&show_icons=true&theme=테마)
 <br>
 
 <!--
