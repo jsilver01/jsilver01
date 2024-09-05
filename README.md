@@ -1,5 +1,7 @@
-### WELCOME to MY GITHUB 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jsilver01&fontSize=90)
+<h3 align="center">
+  <img src="https://github.com/user-attachments/assets/c39796b7-2c6f-4aab-875f-54bc31ed2722" heigh="370" width="70%">
+</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsilver01&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jsilver0819)](https://solved.ac/jsilver0819)
 ![jungeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsilver01&show_icons=true&theme=테마)
